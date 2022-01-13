@@ -1,0 +1,20 @@
+{
+  "name": "ventkrovlya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "builder.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./builder.js --dev",
+    "build": "node ./builder.js --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^*",
+    "esbuild": "^*",
+    "postcss-csso": "^*",
+    "postcss-import": "^*"
+  }
+}

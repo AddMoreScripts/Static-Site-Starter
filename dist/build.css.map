@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../css/test.css", "../css/app.css"],
+  "sourcesContent": ["body{\r\n    font-family: 'Courier New', Courier, monospace;\r\n}", "@import '../css/test.css';\r\n\r\nbody{\r\n    background-color: darkslategrey;\r\n    color:#fff;\r\n}"],
+  "mappings": "AAAA,KACI,0CCCJ,KACI,yBACA",
+  "names": []
+}
